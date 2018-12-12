@@ -15,6 +15,8 @@ namespace ConsoleApplication1
 
 
 
+        private string zmina_v_kopii_proektu = "";
+
         public double this[int i, int j]
         {
             get { return matrix[i, j]; }
