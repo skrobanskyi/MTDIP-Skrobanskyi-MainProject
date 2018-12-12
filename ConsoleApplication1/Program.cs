@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         int n; double Ch;
         double[,] matrix;
         double sl = 0;
-        
+        private string zmina_v_kopii_proektu2 = "";
 
         public double this[int i, int j]
         {
