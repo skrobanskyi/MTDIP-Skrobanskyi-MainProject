@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         double[,] matrix;
         double sl = 0;
         private string zmina_v_oryginali_proektu2 = "eee";
+        private string zmina_v_kopii_proektu2 = "";
 
         public double this[int i, int j]
         {
